@@ -1,6 +1,6 @@
 {
   "name": "frontend-ui-package",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
@@ -18,5 +18,18 @@
     "@vue/cli-service": "~5.0.0",
     "sass": "^1.32.7",
     "sass-loader": "^12.0.0"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecebos/frontend-ui-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecebos/frontend-ui-package/issues"
+  },
+  "homepage": "https://github.com/ecebos/frontend-ui-package#readme"
 }
