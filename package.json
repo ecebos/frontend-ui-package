@@ -20,7 +20,6 @@
     "sass-loader": "^12.0.0"
   },
   "description": "## Project setup ``` npm install ```",
-  "main": "dist/js/app.d673e6b1.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ecebos/frontend-ui-package.git"
