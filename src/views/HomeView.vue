@@ -1,17 +1,18 @@
 <template>
   <div>
-    <HelloWorld :light="true" buttonText="Click"/>
+    <!-- <HelloWorld :light="true" buttonText="Click"/> -->
+    <button>Click</button>
   </div>
 </template>
 
 <script>
-import HelloWorld from '@/components/HelloWorld.vue'
+// import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'HomeView',
-  components: {
-    HelloWorld
-  },
+  // components: {
+  //   HelloWorld
+  // },
   
 }
 </script>
