@@ -30,5 +30,6 @@
   "bugs": {
     "url": "https://github.com/ecebos/frontend-ui-package/issues"
   },
-  "homepage": "https://github.com/ecebos/frontend-ui-package#readme"
+  "homepage": "https://github.com/ecebos/frontend-ui-package#readme",
+  "main": "babel.config.js"
 }
